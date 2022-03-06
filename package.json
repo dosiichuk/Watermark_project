@@ -1,0 +1,12 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dosiichuk/watermark.git",
+  "author": "Dmytro <dmytro.osiychuk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
